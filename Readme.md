@@ -1,4 +1,4 @@
-# Augmented Mirros
+# Augmented Mirrors
 ![Title image of Augmented Mirrors showing augmentations inside a mirror in an industrial context](ApplicationIndustrialSlim.jpg)
 
 This repository contains a Unity 2021.3.x project for a mirror-based mixed reality setup using a half-silvered mirror display and an Intel RealSense depth camera.
