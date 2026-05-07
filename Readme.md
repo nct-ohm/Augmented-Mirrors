@@ -38,7 +38,7 @@ This project optionally depends on an accompanying Python project that streams c
 - Clone and run the Python project repository: [On GitHub](https://github.com/nct-ohm/Augmented-Mirror-Camera-Detection) 
 
 ### Mirror Size & Display Configuration 
-Yu must configure the physical dimensions of the real mirror display inside the Unity project.
+You must configure the physical dimensions of the real mirror display inside the Unity project.
 - Measure the visible mirror area (width & height).
 - Enter these values in the `MirrorPlane` object
 - ![](MirrorPlaneConfig.png)
