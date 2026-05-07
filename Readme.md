@@ -45,7 +45,6 @@ You must configure the physical dimensions of the real mirror display inside the
 - This ensures correct perspective and spatial alignment.
 
 ### Camera Position Configuration
-
 - Configure the camera’s real-world position and orientation relative to the mirror.
 - To make this easier the camera should be on the mirror plane centrally above.
 ![](ARCamera.png)
